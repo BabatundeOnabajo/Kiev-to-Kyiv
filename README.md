@@ -9,6 +9,7 @@ As with all browser extensions, the Kiev to Kyiv browser extension is built in t
 # Instructions
 
 # Credits
+Babatunde Onabajo (ChurchMapped Limited)
 
 # Disclaimer
 
