@@ -8,8 +8,11 @@ As with all browser extensions, the Kiev to Kyiv browser extension is built in t
 
 # Instructions
 
+# Requirements
+
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
 
 # Disclaimer
+The code here is published by Babatunde Onabajo. It does not necessarily reflect the views of any past, present or future employer.
 
