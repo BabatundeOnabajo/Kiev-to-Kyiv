@@ -10,6 +10,8 @@ As with all browser extensions, the Kiev to Kyiv browser extension is built in t
 
 # Requirements
 In order to use the Kiev to Kyiv extension, you will need to have the following:
+* Your browser must have JavaScript enabled
+* Internet browser - Google Chrome (Recommended), Mozilla FireFox (Recommended), Safari and/or Microsoft Edge
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
