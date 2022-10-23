@@ -9,6 +9,7 @@ As with all browser extensions, the Kiev to Kyiv browser extension is built in t
 # Instructions
 
 # Requirements
+In order to use the Kiev to Kyiv extension, you will need to have the following:
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
