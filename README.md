@@ -10,7 +10,10 @@ It was submitted to the 2022 CivicCode Hackathon under the category **Empowermen
 # Technical details
 As with all browser extensions, the Kiev to Kyiv browser extension is built in the following languages: HTML, CSS, JavaScript as well as JSON. The browser extension uses regular expressions within the JavaScript language to dynamically change references of "Kiev" to "Kyiv".
 
+How this browser extension works is that it uses "regular expressions", a functionality found in many programming languages and in this particular context JavaScript, to detect where the word "Kiev" appears on a web page. Regular expressions look for certain words, numbers and symbols according to a predefined pattern. Once the word "Kiev" is found, it is then changed to "Kyiv".
+
 # Instructions
+- For Google Chrome
 
 # Requirements
 In order to use the Kiev to Kyiv extension, you will need to have the following:
