@@ -14,6 +14,8 @@ How this browser extension works is that it uses "regular expressions", a functi
 
 # Instructions
 - For Google Chrome
+- For Mozilla Firefox
+- For Safari
 
 # Requirements
 In order to use the Kiev to Kyiv extension, you will need to have the following:
