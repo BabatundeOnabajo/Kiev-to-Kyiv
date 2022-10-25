@@ -26,5 +26,5 @@ In order to use the Kiev to Kyiv extension, you will need to have the following:
 Babatunde Onabajo (ChurchMapped Limited)
 
 # Disclaimer
-The code here is published by Babatunde Onabajo. It does not necessarily reflect the views of any past, present or future employer.
+The code here is published by Babatunde Onabajo in an individual capacity. It does not necessarily reflect the views of any past, present or future employer.
 
