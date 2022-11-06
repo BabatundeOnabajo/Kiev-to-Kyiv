@@ -1,11 +1,16 @@
 {
 "manifest_version": 3,
-  "name": "Kiev to Kyiv Browser Extension",
-  "description": "This extension automatically uses Kyiv instead of Kiev when it is used on most web pages.",
-  "version": "1.0",
-  "action": {
-    "default_popup": "popup.html",
-    "default_icon": ""
-  }
+"name": "Kiev to Kyiv Browser Extension",
+"description": "This extension automatically uses Kyiv instead of Kiev when it is used on most web pages.",
+"version": "1.0",
+"action": {
+    
+        "default_popup": "popup.html",
+    
+        "default_icon": ""
+        
+  },
+  
+  "permissions": ""
+  
 }
-
