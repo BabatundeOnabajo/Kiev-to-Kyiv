@@ -14,6 +14,16 @@ How this browser extension works is that it uses "regular expressions", a functi
 
 # Instructions
 - For Google Chrome
+* Instructions to use extension (when used for Google Chrome):
+
+1. Visit https://github.com/BabatundeOnabajo/Kiev-to-Kyiv
+2. Click on the Green button marked "Code".
+3. Click "Download Zip".
+4. Type "chrome://extensions" in the URL field
+5. Click "Developer mode"
+6. Click "Load unpacked". This will open up a file browser. Find out where the .zip file downloaded from Github was downloaded and then choose this file.
+7. *The extension should now be in your browser!*
+
 - For Mozilla Firefox
 - For Safari
 
