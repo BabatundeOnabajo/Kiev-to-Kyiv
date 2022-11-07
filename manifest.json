@@ -3,14 +3,29 @@
 "name": "Kiev to Kyiv Browser Extension",
 "description": "This extension automatically uses Kyiv instead of Kiev when it is used on most web pages.",
 "version": "1.0",
+
+    "icons":{
+ 
+            "16": "Flag_Of_Ukraine - 16x16.png",
+            "32": "Flag_Of_Ukraine - 32x32.png",
+            "48": "Flag_Of_Ukraine - 48x48.png",
+            "128": "Flag_Of_Ukraine - 128x128.png"        
+    },
+    
 "action": {
     
         "default_popup": "popup.html",
     
         "default_icon": ""
         
-  },
+  }, "content_scripts": [{
+      
+      "matches": ["<all_urls>"],
+            
+            "js": ["content.js"]
+        
+        }],
   
-  "permissions": ""
+  "permissions": ["http://*/*", "https://*/*", "activeTab", "tabs", "topSites"]
   
 }
