@@ -22,7 +22,7 @@ How this browser extension works is that it uses "regular expressions", a functi
 4. Type "chrome://extensions" in the URL field
 5. Click "Developer mode"
 6. Click "Load unpacked". This will open up a file browser. Find out where the .zip file downloaded from Github was downloaded and then choose this file.
-7. *The extension should now be in your browser!*
+7. **The extension should now be in your browser!**
 
 - For Mozilla Firefox
 - For Safari
