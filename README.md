@@ -33,7 +33,7 @@ In order to use the Kiev to Kyiv extension, you will need to have the following:
 * Internet browser - Google Chrome (Recommended), Mozilla FireFox (Recommended), Safari and/or Microsoft Edge
 
 # Further Details
-Further details can be found by watching the YouTube video here:
+Further details can be found by watching the YouTube video here: [link](https://youtu.be/42Gl8GMD0c0)
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
