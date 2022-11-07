@@ -15,8 +15,8 @@
 "action": {
     
         "default_popup": "popup.html",
-    
-        "default_icon": ""
+        "default_title":"This extension helps you see Kyiv instead of Kiev. For further information, visi github.com/BabatundeOnabajo/Kiev-to-Kyiv",
+        "default_icon": "Flag_Of_Ukraine - 48x48.png"
         
   }, "content_scripts": [{
       
