@@ -3,7 +3,7 @@ function changeKievToKyiv(from, to){ //We create a function that manages to obta
     
  getEveryTextNode().forEach(function(node){ //The getEveryTextNode() function is defined further down below in our code.
     
-    node.nodeValue = node.nodeValue.replace(new RegExp(changeMaker(from), 'g'), to);
+node.nodeValue = node.nodeValue.replace(new RegExp(changeMaker(from), 'g'), to);
     
     });
     
@@ -31,7 +31,12 @@ function changeMaker(str){ //We use this regular expression to catch instances o
     return (str+'').replace(/([.?*+^$[\]\\(){}|-])/g, "\\$1"); //This is the exact regular expression we use. We use the "g" flag to ensure that we catch every instance of Kiev on the webpage.
 }
 
+
+
 }
+
+// We use this segment to inject the content script into the particular web page.
+window.onload = changeKievToKyiv("Kiev", "Kyiv"); //This particular line means that as soon as the window loads, then it injects the content script.
 
 
 
