@@ -28,12 +28,10 @@ function getEveryTextNode(){
     
     
 function changeMaker(str){ //We use this regular expression to catch instances of "Kiev" so that we can change it to Kyiv.
-    return (str+' ').replace(/([.?*+^$[\]\\(){}|-])/g, "\\$1"); //This is the exact regular expression we use. We use the "g" flag to ensure that we catch every instance of Kiev on the webpage.
+    return (str+'').replace(/([.?*+^$[\]\\(){}|-])/g, "\\$1"); //This is the exact regular expression we use. We use the "g" flag to ensure that we catch every instance of Kiev on the webpage.
 }
 
 }
 
-// We call the function changeKievToKyiv here.
-changeKievToKyiv('kiev', 'kyiv');
 
-changeKievToKyiv('Kiev', 'Kyiv');
+
