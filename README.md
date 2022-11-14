@@ -3,7 +3,7 @@ This is a browser extension that automatically converts the city name of "Kiev" 
 
 It is made in the Manifest Version 3, and is therefore compliant with the rules of major extension stores such as the Google Web Store (as at 24th October 2022).
 
-It was submitted to the 2022 CivicCode Hackathon under the category **Empowerment**. 
+It was submitted to the 2022 CivicCode Hackathon under the category **Empowerment**. It was also submitted to the **DeveloperWeek Enterprise Hackathon 2022**.
 
 # History
 
