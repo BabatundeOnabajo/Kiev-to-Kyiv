@@ -6,7 +6,7 @@ It is made in the Manifest Version 3, and is therefore compliant with the rules 
 It was submitted to the 2022 CivicCode Hackathon under the category **Empowerment**. It was also submitted to the **DeveloperWeek Enterprise Hackathon 2022** and **Metro Hacks 2022 Hackathon**.
 
 # History
-Contrary to popular conception, Kyiv is a very old city.
+Contrary to popular conception, Kyiv is a very old city as are the people of Ukraine. The city of Kyiv is believed to have 
 
 # Technical details
 As with all browser extensions, the Kiev to Kyiv browser extension is built in the following languages: HTML, CSS, JavaScript as well as JSON. The browser extension uses regular expressions within the JavaScript language to dynamically change references of "Kiev" to "Kyiv".
